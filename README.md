@@ -1,9 +1,16 @@
-# mkdocs3
-spinnaker doc
+## Overview
+This repository provides a detailed guide on setting up **Spinnaker**, an open-source continuous delivery platform, on a **Minikube (Kubernetes)** cluster using **Halyard**. It includes configuration for MinIO storage, Docker Registry, and Kubernetes deployment.
+
+## Contents
+- Install Minikube, Kubectl, and Halyard
+- Configure MinIO for S3 storage
+- Add Docker registry
+- Enable Kubernetes and deploy Spinnaker
+- Access the Spinnaker UI locally
 
 
 
-####               <h4 style="text-align:center;font-weight: bold;"><u>Deploying Spinnaker on Minikube (Kubernetes) using Hal</u></h4> 
+## Deploying Spinnaker on Minikube (Kubernetes) using Hal
 
 <p>&nbsp;</p>
 
